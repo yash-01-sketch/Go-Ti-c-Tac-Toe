@@ -1,1 +1,2 @@
-# Go-Ti-c-Tac-Toe
+# Go-Ti
+c-Tac-Toe
