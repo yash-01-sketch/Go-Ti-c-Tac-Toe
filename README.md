@@ -27,7 +27,7 @@ A fun two-player Tic Tac Toe game built using HTML, CSS, and vanilla JavaScript 
 
 ## 🔗 Live Demo
 
-[▶ Play Now]
+[▶ Play Now](https://yash-01-sketch.github.io/Go-Ti-c-Tac-Toe/)
 
 ## 👨‍💻 Author
 
